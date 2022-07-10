@@ -26,5 +26,15 @@ After meeting with my team. We chose the concept of the game.
 
 # 2.Implementaion
 **Robot Code**
-[Code](https://github.com/ha-seungwon/Game_Programming/blob/main/project_jump.cs)
+
+[Robot](https://github.com/ha-seungwon/Game_Programming/blob/main/project_jump.cs)
+
+**Obstacles Code**
+
+[Bird](https://github.com/ha-seungwon/Game_Programming/blob/main/project_birdmove.cs)
+
+[Dog](https://github.com/ha-seungwon/Game_Programming/blob/main/project_jump.cs)
+
+
 # 3.Presentation
+[Final PPT](https://github.com/ha-seungwon/Game_Programming/blob/main/project_jump.cs)
