@@ -3,9 +3,9 @@ Making a game from conception to implementation
 
 
 # Index
-* [1.conception](https://github.com/ha-seungwon/Game_Programming/edit/main/README.md#conetion)
-* [2.implementaion](https://github.com/ha-seungwon/Game_Programming/edit/main/README.md#Implementation)
-* [3.Ingame](https://github.com/ha-seungwon/Game_Programming/edit/main/README.md#Ingame)
+* [1.conception](https://github.com/ha-seungwon/Game_Programming#1conception)
+* [2.implementaion](https://github.com/ha-seungwon/Game_Programming#2implementaion)
+* [3.Ingame](https://github.com/ha-seungwon/Game_Programming#3ingame)
 
 
 
